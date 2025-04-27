@@ -6,5 +6,6 @@ server_port = "12000"
 运行方法：
 在文件目录下先运行 python server.py
 再打开另一个终端执行 python client.py
+并输入服务器目标IP地址
 
-或者 双击run.bat
+bat文件不能用了，到时候只能手动输入了
